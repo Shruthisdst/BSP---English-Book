@@ -28,6 +28,10 @@ body{
 }
 h1{
 	font-size: 1.8em;
+	font-style: italic;
+}
+h2{
+	font-style: italic;
 }
 p{
 	text-align: justify;
@@ -35,5 +39,9 @@ p{
 .text{
 	margin-left: 15em;
 }
-.poem{
+.shloka{
+	font-size: 0.95em;
+}
+.gap{
+	margin-left: 3em;
 }
