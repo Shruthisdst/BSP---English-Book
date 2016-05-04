@@ -45,3 +45,9 @@ p{
 .gap{
 	margin-left: 3em;
 }
+ol li{
+	padding-bottom: 1em;
+}
+ul li{
+	padding-bottom: 1em;
+}
