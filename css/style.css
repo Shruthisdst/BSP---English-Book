@@ -51,3 +51,7 @@ ol li{
 ul li{
 	padding-bottom: 1em;
 }
+.textRight{
+	float: right;
+	font-weight: bold;
+}
